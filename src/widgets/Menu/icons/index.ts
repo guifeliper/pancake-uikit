@@ -1,0 +1,12 @@
+export { default as FarmIcon } from "./Farm";
+export { default as HomeIcon } from "./Home";
+export { default as IfoIcon } from "./Ifo";
+export { default as InfoIcon } from "./Info";
+export { default as LanguageIcon } from "./Language";
+export { default as LogoIcon } from "./Logo";
+export { default as MoonIcon } from "./Moon";
+export { default as NftIcon } from "./Nft";
+export { default as PoolIcon } from "./Pool";
+export { default as SunIcon } from "./Sun";
+export { default as TicketIcon } from "./Ticket";
+export { default as TradeIcon } from "./Trade";
